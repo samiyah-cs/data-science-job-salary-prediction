@@ -1,4 +1,9 @@
+
 # Global Data Science Salary Trends Analysis
+
+
+
+This project focuses on exploratory data analysis (EDA), statistical insights, and salary trend visualization rather than machine learning-based salary prediction.
 
 An end-to-end data analysis project designed to explore and uncover global data science salary trends. This project cleans raw market data, uncovers key economic patterns, visualizes critical workforce insights, and presents data-driven conclusions suitable for professional portfolio demonstrations and academic review.
 
